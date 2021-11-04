@@ -1,4 +1,4 @@
 for i in $(cat file.lst)
 do
-touch $1
+touch $i
 done
